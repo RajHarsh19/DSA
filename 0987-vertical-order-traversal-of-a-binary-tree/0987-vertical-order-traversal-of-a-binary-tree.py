@@ -7,7 +7,7 @@
 class Solution:
     def verticalTraversal(self, root: Optional[TreeNode]) -> List[List[int]]:
         nodes = []
-
+# brute force
         def dfs(node, x, y):
             if not node:
                 return
