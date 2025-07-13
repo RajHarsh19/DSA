@@ -25,4 +25,4 @@ class Solution:
                     queue.append(neighbor)
         
        
-        return finished_courses == numCourse
+        return finished_courses == numCourses
