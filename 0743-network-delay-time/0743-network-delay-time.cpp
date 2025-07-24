@@ -41,7 +41,7 @@ public:
 
 	}
         
-        int ans = INT_MIN;
+        int ans = INT_MAX;
         
         for(int i = 1; i <= n; i++)
             ans = max(ans, result[i]);
