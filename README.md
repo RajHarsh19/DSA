@@ -37,4 +37,5 @@ This repository contains my personal solutions to LeetCode problems focused on *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/RajHarsh19/DSA/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/RajHarsh19/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
