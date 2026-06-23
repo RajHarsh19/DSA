@@ -33,4 +33,8 @@ This repository contains my personal solutions to LeetCode problems focused on *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RajHarsh19/DSA/tree/main/0001-two-sum/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/RajHarsh19/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
