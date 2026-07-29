@@ -30,11 +30,13 @@ This repository contains my personal solutions to LeetCode problems focused on *
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RajHarsh19/DSA/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/RajHarsh19/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajHarsh19/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RajHarsh19/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RajHarsh19/DSA/tree/main/0001-two-sum/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajHarsh19/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
