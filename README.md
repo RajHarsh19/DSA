@@ -29,6 +29,7 @@ This repository contains my personal solutions to LeetCode problems focused on *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RajHarsh19/DSA/tree/main/0001-two-sum/) | Easy |
+| [0283-move-zeroes](https://github.com/RajHarsh19/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RajHarsh19/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ This repository contains my personal solutions to LeetCode problems focused on *
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/RajHarsh19/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/RajHarsh19/DSA/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
